@@ -1,0 +1,2 @@
+class CommandMixIn:
+    pass
